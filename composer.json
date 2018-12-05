@@ -8,5 +8,10 @@
             "name": "Barham Majid",
             "email": "barham.majid@gmail.com"
         }
-    ]
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.3.x-dev"
+        }
+    }
 }
