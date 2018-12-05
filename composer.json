@@ -9,7 +9,9 @@
             "email": "barham.majid@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "advancednet/nestable": "dev-master"
+    },
         "minimum-stability": "dev",
         "prefer-stable": true
 
