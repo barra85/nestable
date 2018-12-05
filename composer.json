@@ -1,14 +1,12 @@
 {
     "name": "advancednet/nestable",
     "description": "nestable jquery",
-    "type": "library",
+    "type": "component",
     "license": "MIT",
     "authors": [
         {
             "name": "Barham Majid",
             "email": "barham.majid@gmail.com"
         }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+    ]
 }
