@@ -9,5 +9,8 @@
             "email": "barham.majid@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+        "minimum-stability": "dev",
+        "prefer-stable": true
+
 }
