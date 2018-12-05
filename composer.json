@@ -1,6 +1,6 @@
 {
-    "name": "advancednet/nestable",
-    "description": "nestable jquery",
+    "name": "advancednet/jquery-nestable",
+    "description": "jquery nestable2",
     "type": "component",
     "license": "MIT",
     "authors": [
@@ -9,12 +9,5 @@
             "email": "barham.majid@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.6.0"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.3.x-dev"
-        }
-    }
+    "require": {}
 }
