@@ -1,14 +1,9 @@
 {
-  "name": "advancednet/jquery-nestable",
-  "description": "jquery nestable2",
-  "type": "component",
-  "license": "MIT",
-  "authors": [
+  "name": "advancednet/nestable",
+  "repositories": [
     {
-      "name": "Barham Majid",
-      "email": "barham.majid@gmail.com"
+      "type": "vcs",
+      "url": "https://github.com/barra85/nestable"
     }
-  ],
-  "minimum-stability": "dev",
-  "require": {}
+  ]
 }
