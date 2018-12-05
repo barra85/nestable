@@ -9,6 +9,9 @@
             "email": "barham.majid@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.6.0"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "3.3.x-dev"
